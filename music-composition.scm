@@ -1,7 +1,3 @@
-; Project: This project is a decomposition of the song "I'm Good"
-; by Bebe Rexha and David Guetta.
-; Authors: Anh Thuc (Christina) Vu, John Miller, Luke Walters, Luke Caruso-Thompson
-; Date: 2022-10-12
 (import music) 
 (import canvas)
 (import html)
